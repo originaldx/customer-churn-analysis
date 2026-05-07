@@ -86,3 +86,11 @@ Customer churn is driven by a combination of:
 - Service support availability  
 
 Addressing these areas can significantly improve retention and reduce revenue loss.
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Dashboard](Dashboard-overview.png)
+
+### Customer Risk Segmentation
+![Risk Segmentation](risk-segmentation.png)
