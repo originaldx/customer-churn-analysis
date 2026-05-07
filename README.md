@@ -94,3 +94,5 @@ Addressing these areas can significantly improve retention and reduce revenue lo
 
 ### Customer Risk Segmentation
 ![Risk Segmentation](risk-segmentation.png)
+
+![Power Bi Document](customer-churn-dashboard.pbix)
